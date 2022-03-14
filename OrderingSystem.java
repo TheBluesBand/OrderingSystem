@@ -972,3 +972,6 @@ class Monitor extends ComputerPart {
 		return "" + super.getID() + "\t" + super.getBrand() + "\t" + super.getModel() + "\t$" + super.getPrice() + "\t" + SIZE;
 	}
 }
+/*
+Get the most up to date version @ https://github.com/TheBluesBand/OrderingSystem
+*/
